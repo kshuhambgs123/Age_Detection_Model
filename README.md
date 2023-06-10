@@ -1,10 +1,6 @@
 <<<<<<< HEAD
 # Age_Detection_Model
-=======
-# AV_Age Detection
-Challenge link : [https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/
-](https://datahack.analyticsvidhya.com/contest/practice-problem-age-detection/
-) 
+
 
 #### Task:
 The dataset is cleaned and formatted to give you a total of 26742 images with 19906 images in train and 6636 images in test.
