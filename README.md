@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Age_Detection_Model
 
 
@@ -9,6 +9,5 @@ The task is to predict the age of a person from his or her facial attributes. Fo
 #### Approach:
 Deep CNN with/without dropout  
 Training Accuracy - 85.24 %  
-Testing Accuracy  - 78.15 %  
-LeaderBoard score - 0.7897830018
->>>> (first commit)
+Testing Accuracy  - 78.15 % 
+
