@@ -11,4 +11,4 @@ Deep CNN with/without dropout
 Training Accuracy - 85.24 %  
 Testing Accuracy  - 78.15 %  
 LeaderBoard score - 0.7897830018
->>>>>>> 0c86b043 (first commit)
+>>>> (first commit)
